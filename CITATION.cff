@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Si usa este trabajo, cítelo como se indica abajo."
+title: "Carteras de inversión en acciones de EE. UU. Desempeño, eficiencia y costo de capital, 2003-2026"
+type: software
+authors:
+  - family-names: "Atencio Arias"
+    given-names: "Joseph Aarón"
+keywords:
+  - carteras de inversión
+  - frontera eficiente
+  - CAPM
+  - Fama-French-Carhart
+  - costo de capital
+preferred-citation:
+  type: report
+  title: "Carteras de inversión en acciones de EE. UU. Desempeño, eficiencia y costo de capital, 2003-2026"
+  authors:
+    - family-names: "Atencio Arias"
+      given-names: "Joseph Aarón"
+  year: 2026
+  month: 10
+  languages:
+    - es

@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Descargas de prueba de scripts/descargar_datos.py
+data_nueva/
+
+# Fuente del informe en LaTeX; se publica solo el PDF de report/
+report/latex/

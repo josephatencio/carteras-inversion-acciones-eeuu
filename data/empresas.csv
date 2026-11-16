@@ -1,0 +1,45 @@
+ticker,sector,acciones_en_circulacion
+SHW,Materiales,241588072.0
+SCCO,Materiales,853293305.0
+ECL,Materiales,280467785.0
+APD,Materiales,222685530.0
+GOOG,Comunicaciones,5579000000.0
+META,Comunicaciones,2214455318.0
+NFLX,Comunicaciones,4106325903.0
+TMUS,Comunicaciones,1059272571.0
+AMZN,Consumo discrecional,10813138306.0
+TSLA,Consumo discrecional,3952757946.0
+HD,Consumo discrecional,997689626.0
+TJX,Consumo discrecional,1099974061.0
+WMT,Consumo básico,7958079155.0
+PG,Consumo básico,2317783143.0
+COST,Consumo básico,443129349.0
+KO,Consumo básico,4301902335.0
+XOM,Energía,4079222444.0
+CVX,Energía,1951253686.0
+EOG,Energía,518484224.0
+EPD,Energía,2156604858.0
+BRK-A,Finanzas,488450.0
+JPM,Finanzas,2655609509.0
+V,Finanzas,1724473215.0
+BAC,Finanzas,6900209006.0
+LLY,Salud,890745031.0
+UNH,Salud,896022611.0
+JNJ,Salud,2407310266.0
+ABBV,Salud,1767616306.0
+GE,Industrial,1037562513.0
+CAT,Industrial,457594174.0
+RTX,Industrial,1349440548.0
+UNP,Industrial,594075498.0
+PLD,Bienes raíces,950513000.0
+AMT,Bienes raíces,463763555.0
+EQIX,Bienes raíces,98988318.0
+WELL,Bienes raíces,733609863.0
+AAPL,Tecnología,14532182000.0
+NVDA,Tecnología,24147000000.0
+MSFT,Tecnología,7426194552.0
+ORCL,Tecnología,3117708046.0
+NEE,Utilidades,2097306049.0
+SO,Utilidades,1164261029.0
+DUK,Utilidades,779708297.0
+CEG,Utilidades,354307379.0
