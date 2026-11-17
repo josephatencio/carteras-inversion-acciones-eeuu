@@ -89,9 +89,10 @@ def macros(cifras: dict[str, str]) -> str:
     return "\n".join(lineas) + "\n"
 
 
-def lista(nombres) -> str:
-    """["Salud", "Tecnología"] -> "salud y tecnología", para usarla dentro de una oración."""
+def lista(nombres, y: str = "y", ninguno: str = "ninguno") -> str:
+    """["Salud", "Tecnología"] -> "salud y tecnología", para usarla dentro de una oración. En la
+    versión en inglés, y="and" y ninguno="none"."""
     nombres = [n.lower() for n in nombres]
     if not nombres:
-        return "ninguno"
-    return nombres[0] if len(nombres) == 1 else ", ".join(nombres[:-1]) + " y " + nombres[-1]
+        return ninguno
+    return nombres[0] if len(nombres) == 1 else ", ".join(nombres[:-1]) + f" {y} " + nombres[-1]
